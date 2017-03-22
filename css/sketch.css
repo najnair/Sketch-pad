@@ -1,0 +1,58 @@
+
+header{
+	margin : auto;
+	width = 660px;
+	
+}
+h1{
+	font:"Lucida Sans";
+	font-size: 20px;
+	color:#E8491D;
+	margin: 0px 10px;
+	text-align:center;
+}
+
+.buttons{
+	margin: 0 2px 15px;
+	/*border: 1px solid #4285f4;*/
+	-webkit-border-radius: 4;
+  	-moz-border-radius: 4;
+  	border-radius: 4px;
+	
+	padding: 5px 10px;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:center;
+color:
+}
+
+.container{
+	
+	position: relative;
+	height : 660px;
+	width : 660px;
+	background-color: #7fffd4;
+	margin:  auto;
+	overflow: hidden;
+	border: 50px solid #d62e2e;
+	border-radius: 10px;
+	outline:1px solid #ffffff;
+}
+
+.grid{
+	
+	float: left;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	border:none;
+	outline:1px solid #ffffff;
+	background-color: #000;
+
+
+	
+	
+}
+
+
