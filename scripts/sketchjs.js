@@ -15,8 +15,7 @@ $(document).ready(function(){
 	$('#reset').click(function(){
 		
 		reset();
-		
-		
+			
 	});
 	
 	
@@ -34,6 +33,7 @@ $(document).ready(function(){
 	
 });
 
+/* functions */
 
 function createGrid(numsq){
 	
